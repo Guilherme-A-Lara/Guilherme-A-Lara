@@ -22,6 +22,8 @@ Cursor of computer science. I currently work as a website maintenance and develo
 * Zopone Engenharia LTDA - Developer (learning) Delphi (XE8) + SQL Server and Help Desk
 * ABC Soluções - Help Desk for retail sales systems and Delphi developer with Firebase.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ## 📱 Social Medias
 ### **[LinkedIn](https://www.linkedin.com/in/guilherme-de-almeida-lara-6772a3177/)**
