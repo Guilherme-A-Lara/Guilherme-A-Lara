@@ -1,13 +1,13 @@
 #  Guilherme de Almeida Lara
 ## @guilaradev
 
-## 🧑‍💻 Informações Básicas
+## 🧑‍💻 Basic information
 
 Front-end developer using HTML5, CSS3, Bootstrap and JavaScript.
 Development student in ReactJs, Knowledge in Angular, Material Design, Java, Java Android, Python, Delphi, PHP, MySQL, OracleDB, BPM and BI.
 Cursor of computer science. I currently work as a website maintenance and development intern at IndexNet Publicidade Digital in Bauru / SP, and continue to search for new technologies to better serve customers and users of the services provided. 
 
-## 🎓 Informações específicas
+## 🎓 Specific information
 
 * **Name:** Guilherme de Almeida Lara
 * **Age:** 23
