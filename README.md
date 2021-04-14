@@ -1,16 +1,30 @@
-### Hi there 👋
+#  Guilherme de Almeida Lara
+## @guilaradev
 
-<!--
-**Guilherme-A-Lara/Guilherme-A-Lara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Informações Básicas
 
-Here are some ideas to get you started:
+Front-end developer using HTML5, CSS3, Bootstrap and JavaScript.
+Development student in ReactJs, Knowledge in Angular, Material Design, Java, Java Android, Python, Delphi, PHP, MySQL, OracleDB, BPM and BI.
+Cursor of computer science. I currently work as a website maintenance and development intern at IndexNet Publicidade Digital in Bauru / SP, and continue to search for new technologies to better serve customers and users of the services provided. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Informações específicas
+
+* **Name:** Guilherme de Almeida Lara
+* **Age:** 23
+* **Location:** Bauru/SP
+* **Stacks:** HTML5 , CSS3 , SCSS, Git, PHP , JS , Bootstrap 4.
+* **University:** UNIP Bauru
+* **Course*:* Computer science
+
+## 💼 Career
+* IndexNet Digital Advertising (current work) - Front-End
+* Unimed Bauru - Power BI Assistant
+* Zopone Engenharia LTDA - Developer (learning) Delphi (XE8) + SQL Server and Help Desk
+* ABC Soluções - Help Desk for retail sales systems and Delphi developer with Firebase.
+
+
+## 📱 Social Medias
+### **[LinkedIn](https://www.linkedin.com/in/guilherme-de-almeida-lara-6772a3177/)**
+
+### **[Twitter](https://twitter.com/guilaradev)**
+### **[Instagram](https://www.instagram.com/guiihlara/?hl=pt-br)**
