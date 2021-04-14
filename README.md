@@ -28,3 +28,5 @@ Cursor of computer science. I currently work as a website maintenance and develo
 
 ### **[Twitter](https://twitter.com/guilaradev)**
 ### **[Instagram](https://www.instagram.com/guiihlara/?hl=pt-br)**
+
+![front-end-developers-openings](https://user-images.githubusercontent.com/54341844/114743507-211e9280-9d23-11eb-8f9d-9aed9b665e4a.gif)
