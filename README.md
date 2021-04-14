@@ -14,7 +14,7 @@ Cursor of computer science. I currently work as a website maintenance and develo
 * **Location:** Bauru/SP
 * **Stacks:** HTML5 , CSS3 , SCSS, Git, PHP , JS , Bootstrap 4.
 * **University:** UNIP Bauru
-* **Course*:* Computer science
+* **Course:** Computer science
 
 ## 💼 Career
 * IndexNet Digital Advertising (current work) - Front-End
