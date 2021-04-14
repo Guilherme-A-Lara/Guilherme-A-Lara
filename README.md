@@ -22,7 +22,7 @@ Cursor of computer science. I currently work as a website maintenance and develo
 * Zopone Engenharia LTDA - Developer (learning) Delphi (XE8) + SQL Server and Help Desk
 * ABC Soluções - Help Desk for retail sales systems and Delphi developer with Firebase.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![HTML 5](https://github-readme-stats.vercel.app/api?username=html&show_icons=true&theme=radical)
 
 
 ## 📱 Social Medias
