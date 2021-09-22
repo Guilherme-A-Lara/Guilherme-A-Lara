@@ -17,7 +17,8 @@ Cursor of computer science. I currently work as a website maintenance and develo
 * **Course:** Computer science
 
 ## 💼 Career
-* IndexNet Digital Advertising (current work) - Front-End
+* TN Sistemas - Full Stack Developer PHP, VueJS , Postgresql.
+* IndexNet Digital Advertising - Front-End
 * Unimed Bauru - Power BI Assistant
 * Zopone Engenharia LTDA - Developer (learning) Delphi (XE8) + SQL Server and Help Desk
 * ABC Soluções - Help Desk for retail sales systems and Delphi developer with Firebase.
