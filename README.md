@@ -17,6 +17,7 @@ Cursor of computer science. I currently work as a website maintenance and develo
 * **Course:** Computer science
 
 ## 💼 Career
+* Lura Design - Front-End Developer as PHP, CSS, HTML and JavaScript.
 * TN Sistemas - Full Stack Developer PHP, VueJS , Postgresql.
 * IndexNet Digital Advertising - Front-End
 * Unimed Bauru - Power BI Assistant
