@@ -34,6 +34,8 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-A-Lara&show_icons=true&theme=vision-friendly-dark" alt="guilaradev stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Lara&layout=compact&theme=vision-friendly-dark" alt="guilaradev most languages"/>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guilherme-A-Lara)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <br><br>
