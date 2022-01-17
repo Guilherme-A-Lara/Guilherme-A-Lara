@@ -1,34 +1,67 @@
-#  Guilherme de Almeida Lara
-## @guilaradev
+- 🔥 Web Developer 
 
-## 🧑‍💻 Basic information
+- 🔭 I’m currently working at [Lura Inteligência Web](https://www.instagram.com/luraweb/)
 
-Front-end developer using HTML5, CSS3, Bootstrap and JavaScript.
-Development student in ReactJs, Knowledge in Angular, Material Design, Java, Java Android, Python, Delphi, PHP, MySQL, OracleDB, BPM and BI.
-Cursor of computer science. I currently work as a website maintenance and development intern at IndexNet Publicidade Digital in Bauru / SP, and continue to search for new technologies to better serve customers and users of the services provided. 
-
-## 🎓 Specific information
-
-* **Name:** Guilherme de Almeida Lara
-* **Age:** 23
-* **Location:** Bauru/SP
-* **Stacks:** HTML5 , CSS3 , SCSS, Git, PHP , JS , Bootstrap 4.
-* **University:** UNIP Bauru
-* **Course:** Computer science
-
-## 💼 Career
-* Lura Design - Front-End Developer as PHP, CSS, HTML and JavaScript.
-* TN Sistemas - Full Stack Developer PHP, VueJS , Postgresql.
-* IndexNet Digital Advertising - Front-End
-* Unimed Bauru - Power BI Assistant
-* Zopone Engenharia LTDA - Developer (learning) Delphi (XE8) + SQL Server and Help Desk
-* ABC Soluções - Help Desk for retail sales systems and Delphi developer with Firebase.
+- 👨‍💻 All of my projects are available at [guilhermerdev.io](guilherme-a-lara.github.io/guilhermerdev.io/)
 
 
-## 📱 Social Medias
-### **[LinkedIn](https://www.linkedin.com/in/guilherme-de-almeida-lara-6772a3177/)**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-### **[Twitter](https://twitter.com/guilaradev)**
-### **[Instagram](https://www.instagram.com/guiihlara/?hl=pt-br)**
+- ⚡ Fun fact **My favorite anime is Samurai X**
 
-![front-end-developers-openings](https://user-images.githubusercontent.com/54341844/114743507-211e9280-9d23-11eb-8f9d-9aed9b665e4a.gif)
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/guilaradev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/guilherme-de-almeida-lara-6772a3177/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/guilaradev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-guilaradev-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=guilaradev&layout=wide&show_reply=off&show_retweet=off" />
+
+
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
