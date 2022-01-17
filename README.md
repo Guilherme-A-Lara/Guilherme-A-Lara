@@ -34,7 +34,7 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-A-Lara&show_icons=true&theme=vision-friendly-dark" alt="guilaradev stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Lara&layout=compact&theme=vision-friendly-dark" alt="guilaradev most languages"/>
-(https://github-readme-stats.vercel.app/api/wakatime?username=guilaradev)
+<img widh="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilaradev" alt="guilaradev recent coding"/>
 
 
 </p>
