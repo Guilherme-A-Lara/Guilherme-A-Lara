@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Lura Inteligência Web](https://www.instagram.com/luraweb)
 
-- 👨‍💻 All of my projects are available at [guilhermerdev.io](guilaradev.github.io/guilhermerdev.io/)
+- 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/)
 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, PYTHON, JAVA**
