@@ -3,7 +3,7 @@
 
 - 🔥 Web Developer 
 
-- 🔭 I’m currently working at [Lura Inteligência Web](https://www.instagram.com/luraweb)
+- 🔭 I’m currently working at [Lura Inteligência Web](https://www.instagram.com/luraweb) as Full Stack Developer :)
 
 - 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/)
 
