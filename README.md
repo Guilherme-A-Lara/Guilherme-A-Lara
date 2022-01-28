@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Lara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-A-LAra&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilaradev&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer 
 
