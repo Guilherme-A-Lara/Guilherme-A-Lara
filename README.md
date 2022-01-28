@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Lura Inteligência Web](https://www.instagram.com/luraweb) as Full Stack Developer :)
 
-- 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/)
+- 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/) and my [Linkedin](https://www.linkedin.com/in/guilaradev/)
 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, PYTHON, JAVA**
