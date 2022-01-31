@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/) and my [Linkedin](https://www.linkedin.com/in/guilaradev/)
 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, PYTHON, JAVA**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, PYTHON, JAVA , WORDPRESS**
 
 - ⚡ Fun fact **My favorite anime is Samurai X**
 
