@@ -1,15 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Lara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilaradev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer 
-
+- 🔥 Back End Developer 
 
 - 👨‍💻 All of my projects are available at [guilhermerdev.io](https://guilaradev.github.io/guilhermerdev.io/) and my [Linkedin](https://www.linkedin.com/in/guilaradev/)
 
+- 💬 Ask me about **JavaScript, SQL, PHP, PYTHON, JAVA, AWS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, PYTHON, JAVA , WORDPRESS**
-
-- ⚡ Fun fact **My favorite anime is Samurai X**
+- ⚡ Fun fact **I love cook for friends** 
 
 <br><br>
 
